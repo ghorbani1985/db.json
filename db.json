@@ -6,4 +6,13 @@
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
   "profile": { "name": "typicode" }
+  "tarkhinehContactForm" : [
+    {
+       "id" : 1,
+       "fullName" : "محسن قربانی",
+       "phoneNumber" : "09358923824",
+        "email" : "mohseen.ghorbani1985@gmail.com",
+        "textMessage": "سپاس از خدمات ویژه شما"
+    }
+  ]
 }
